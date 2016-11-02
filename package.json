@@ -1,0 +1,19 @@
+{
+  "name": "mongoose_demo",
+  "version": "1.0.0",
+  "description": "mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "yuanyu",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "mongoose": "^4.6.5"
+  }
+}
